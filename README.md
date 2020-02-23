@@ -1,0 +1,2 @@
+# DeclaritiveApproach
+Functional way 
